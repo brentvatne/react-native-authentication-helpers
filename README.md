@@ -2,7 +2,7 @@
 
 If you want to set up some super basic authentication in your app, this might be for you.
 
-```
+```javascript
 import {
   setUser,
   getUser,
