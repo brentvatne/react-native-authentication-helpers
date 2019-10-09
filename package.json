@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@react-native-community/async-storage": "^1.6.2",
     "fbemitter": "^2.1.1",
     "hoist-non-react-statics": "^2.3.0"
   }
