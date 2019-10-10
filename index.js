@@ -1,5 +1,5 @@
 import React from 'react';
-import { AsyncStorage } from 'react-native';
+import AsyncStorage from '@react-native-community/async-storage';
 import hoistStatics from 'hoist-non-react-statics';
 import { EventEmitter } from 'fbemitter';
 
